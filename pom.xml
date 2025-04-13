@@ -89,5 +89,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>employee-service</finalName>
 	</build>
 </project>
